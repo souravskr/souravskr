@@ -43,7 +43,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="souravskr's GitHub Stats" src="https://github-readme-stats.souravskr.vercel.app/api?username=souravskr&show_icons=true&hide_border=true" />
+[![Sourav's github stats](https://github-readme-stats.vercel.app/api?username=souravskr)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
