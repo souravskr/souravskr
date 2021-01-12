@@ -2,7 +2,7 @@
 
 - 🔭 I dream of a better green world!
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute to Open Source projects
 - ⚡ Fun fact: I am a bird lover, love looking at the sky and dream to be a farmer after retirement!
 
 ### Spotify Playing 🎧
