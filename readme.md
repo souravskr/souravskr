@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Sourav, a Seeker, Learner, and Developer!!
 
 - 🔭 I dream of a better green world!
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything 😊
 - 🥅 2021 Goals: Contribute to Open Source projects
 - ⚡ Fun fact: I am a bird lover, love looking at the sky and dream to be a farmer after retirement!
 
