@@ -14,19 +14,21 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vscode/vscode-original.svg" />]
-[<img align="left" alt="Intellij IDEA" width="26px" src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>]
-[<img align="left" alt="aws" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/amazon.svg"/>]
-[<img align="left" alt="Python" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg"/>]
-[<img align="left" alt="Go" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/go/go-original.svg"/>]
-[<img align="left" alt="java" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original.svg"/>]
-[<img align="left" alt="Nodejs" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nodejs/nodejs-original.svg" />]
-[<img align="left" alt="Terraform" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/terraform/terraform-original.svg" />]
-[<img align="left" alt="SQL" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/postgresql/postgresql-original.svg" />]
-[<img align="left" alt="MongoDB" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mongodb/mongodb-original.svg" />]
-[<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />]
-[<img align="left" alt="CircleCI" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/circleci.svg" />]
+<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vscode/vscode-original.svg" />
+<img align="left" alt="Intellij IDEA" width="26px" src="https://img.icons8.com/color/48/000000/intellij-idea.png" />
+<img align="left" alt="aws" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/amazon.svg" />
+<img align="left" alt="Python" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" />
+<img align="left" alt="Go" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/go/go-original.svg" />
+<img align="left" alt="java" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original.svg" />
+<img align="left" alt="Nodejs" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Terraform" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/terraform/terraform-original.svg" />
+<img align="left" alt="SQL" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/postgresql/postgresql-original.svg" />
+<img align="left" alt="MongoDB" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mongodb/mongodb-original.svg" />
+<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />
+<img align="left" alt="CircleCI" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/circleci.svg" />
+<img align="left" alt="Terminal" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gnubash.svg" />
 
+<br />
 <br />
 
 <details>
