@@ -7,7 +7,7 @@
 
 ### Connect with me:
 
-[![website](./img/globe-dark.svg)](https://souravs.netlify.app)
+![website](./img/globe-dark.svg)(https://souravs.netlify.app)
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://commons.wikimedia.org/wiki/Category:SVG_globe_icons#/media/File:Americas_blue_icon.svg" />][website]
 &nbsp;&nbsp;
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
