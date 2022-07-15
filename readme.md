@@ -23,7 +23,6 @@
 [![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
 
 [<img align="left" alt="My Site | LinkedIn" width="22px" src="./img/globe-light.svg" />](https://souravs.netlify.app/)
-&nbsp;&nbsp;
 [<img align="left" alt="linkedin | LinkedIn" width="22px" src="./img/linkedin-light.svg" />](https://inkedin.com/in/souravsker/)
 
 <br />
