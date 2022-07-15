@@ -14,7 +14,7 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vscode/vscode-original.svg" />
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vscode/vscode-original.svg" />]()
 <img align="left" alt="Intellij IDEA" width="26px" src="https://img.icons8.com/color/48/000000/intellij-idea.png" />
 <img align="left" alt="aws" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/amazon.svg" />
 <img align="left" alt="Python" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" />
