@@ -7,7 +7,7 @@
 
 ### Connect with me:
 
-[<img align="left" src="img/globe-dark.svg">][website]
+[<img align="left" src="img/globe-light.svg">][website]
 &nbsp;&nbsp;
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
@@ -20,13 +20,13 @@
 [<img align="left" alt="Python" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg"/>]
 [<img align="left" alt="Go" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/go/go-original.svg"/>]
 [<img align="left" alt="java" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original.svg"/>]
-[<img align="left" alt="Node.js" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nodejs/nodejs-original.svg" />]
+[<img align="left" alt="Nodejs" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nodejs/nodejs-original.svg" />]
 [<img align="left" alt="Terraform" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/terraform/terraform-original.svg" />]
 [<img align="left" alt="SQL" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/postgresql/postgresql-original.svg" />]
 [<img align="left" alt="MongoDB" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mongodb/mongodb-original.svg" />]
 [<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />]
 [<img align="left" alt="CircleCI" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/circleci.svg" />]
-[<img align="left" alt="Terminal" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gnubash.svg" />]
+
 <br />
 
 <details>
