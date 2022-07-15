@@ -22,8 +22,10 @@
 [![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="./img/globe-light.svg" />](https://souravs.netlify.app/)
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="./img/linkedin-light.svg" />](https://www.linkedin.com/in/souravsker/)
+
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+&nbsp;&nbsp;
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
