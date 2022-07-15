@@ -3,7 +3,7 @@
 - 🔭 I dream of a better green world!
 - 🌱 I’m currently learning everything 😊
 - 🥅 2022 Goals: Go and Terratest
-- ⚡ Fun fact: I have two pet budgie birds.
+- ⚡ Fun fact: I have two pet budgie birds :bird: .
 
 ### Connect with me:
 
