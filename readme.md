@@ -1,8 +1,8 @@
-### Hi there 👋, I'm Sourav, a Seeker, Learner, and Developer!!
+### Hey there 👋, I'm Sourav, a Seeker, Learner, and Developer!!
 
 - 🔭 I dream of a better green world!
 - 🌱 I’m currently learning everything 😊
-- 🥅 2022 Goals: Go and Terratest
+- 🥅 2022 Goal: LeetCode 150 and Blind 75
 - ⚡ Fun fact: I have two pet budgie birds :bird: 
 
 ### Connect with me:
