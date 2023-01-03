@@ -1,8 +1,8 @@
-### Hey there 👋, I'm Sourav, a Seeker, and Cloud Developer!!
+### Hey there 👋, I'm Sourav, a Seeker, and Cloud Developer!
 
 - 🔭 ***“A dream doesn't become reality through magic; it takes sweat, determination and hard work”.*** -Colin Powell
-- 🌱 I’m currently learning Data Structure, Algorithm and System Design 😊
-- 🥅 2022 Goal: LeetCode 150 and Blind 75 (www.neetcode.io and www.projecteuler.net)
+- 🌱 I love learning Data Structure, Algorithm and System Design 😊
+- 🥅 2023 Goal: Full-stack development - [Bud](https://github.com/livebud/bud) & [React](#).
 - ⚡ Fun fact: I have two pet budgie birds :bird: 
 
 ### Connect with me:
