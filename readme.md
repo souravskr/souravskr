@@ -41,4 +41,4 @@
 [linkedin]: https://www.linkedin.com/in/souravsker/
 
 #### Thanks for checking out my profle! 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=souravskr.328822845)
