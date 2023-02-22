@@ -10,6 +10,9 @@
 [<img align="left" src="img/globe-light.svg">][website]
 &nbsp;&nbsp;
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[website]: https://souravs.netlify.app/
+[linkedin]: https://www.linkedin.com/in/souravsker/
 <br />
 
 ### Languages and Tools:
@@ -34,13 +37,10 @@
 ### Github Stats:
 
 <img align="left" height='150px' width='375px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=souravskr&layout=compact&theme=vue"/>
-
 <img align="right" height='150px' width='375px' src="https://github-readme-stats.vercel.app/api?username=souravskr&show_icons=true&theme=vue"/>
 
-[website]: https://souravs.netlify.app/
-[linkedin]: https://www.linkedin.com/in/souravsker/
-<br />
-<br />
+<br>
+<br>
 
 ### Thanks for checking out my profle! 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=souravskr.328822845)
