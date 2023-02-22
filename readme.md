@@ -35,5 +35,7 @@
 <img align="left" height='150px' width='375px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=souravskr&layout=compact&theme=vue"/>
 <img align="right" height='150px' width='375px' src="https://github-readme-stats.vercel.app/api?username=souravskr&show_icons=true&theme=vue"/>
 
+&nbsp;
+&nbsp;
 ### Thanks for checking out my profle! 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=souravskr.328822845)
