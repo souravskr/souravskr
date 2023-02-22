@@ -30,10 +30,6 @@
 [<img align="left" alt="CircleCI" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/circleci.svg" />](#)
 [<img align="left" alt="Terminal" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gnubash.svg" />](#)
 
-<br />
-<br />
-
-
 ### Github Stats:
 
 <img align="left" height='150px' width='375px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=souravskr&layout=compact&theme=vue"/>
@@ -41,6 +37,3 @@
 
 ### Thanks for checking out my profle! 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=souravskr.328822845)
-<br>
-<br>
-<br>
