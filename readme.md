@@ -40,6 +40,7 @@
 [website]: https://souravs.netlify.app/
 [linkedin]: https://www.linkedin.com/in/souravsker/
 <br />
+<br />
 
 ### Thanks for checking out my profle! 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=souravskr.328822845)
