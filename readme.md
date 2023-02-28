@@ -9,7 +9,7 @@
 
 [<img align="left" src="img/globe-light.svg">][website]
 &nbsp;&nbsp;
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" />][linkedin]
 
 [website]: https://souravs.netlify.app/
 [linkedin]: https://www.linkedin.com/in/souravsker/
@@ -27,15 +27,15 @@
 [<img align="left" alt="SQL" width="35px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/postgresql/postgresql-original.svg" />](#)
 [<img align="left" alt="MongoDB" width="35px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mongodb/mongodb-original.svg" />](#)
 [<img align="left" alt="GitHub" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />](#)
-[<img align="left" alt="CircleCI" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/circleci.svg" />](#)
-[<img align="left" alt="Terminal" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gnubash.svg" />](#)
+[<img align="left" alt="CircleCI" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/circleci/circleci-plain.svg" />](#)
+[<img align="left" alt="Bash" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" />](#)
 
 <br />
 <br />
 
 ### Github Stats:
 
-<img align="left" height='150px' width='375px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=souravskr&layout=compact&theme=vue"/>
+<img align="left" height='150px' width='380px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=souravskr&layout=compact&theme=vue"/>
 <img align="right" height='150px' width='375px' src="https://github-readme-stats.vercel.app/api?username=souravskr&show_icons=true&theme=vue"/> <br /><br /><br /><br /> <br /><br /><br />
 
 ### Thanks for checking out my profle! 
