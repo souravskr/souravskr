@@ -35,7 +35,7 @@
 
 ### Github Stats:
 
-<img align="left" height='150px' width='380px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=souravskr&layout=compact&theme=vue"/>
+<img align="left" height='150px' width='375px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=souravskr&hide_progress=true&theme=vue"/>
 <img align="right" height='150px' width='375px' src="https://github-readme-stats.vercel.app/api?username=souravskr&show_icons=true&theme=vue"/> <br /><br /><br /><br /> <br /><br /><br />
 
 ### Thanks for checking out my profle! 
