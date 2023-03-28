@@ -7,7 +7,7 @@
 
 ### Connect with me:
 
-[<img align="left" src="img/globe-light.svg">][website]
+[<img align="left" width="35px" src="img/globe-light.svg">][website]
 &nbsp;&nbsp;
 [<img align="left" alt="codeSTACKr | LinkedIn" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" />][linkedin]
 
