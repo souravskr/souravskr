@@ -1,4 +1,4 @@
-### Hey there 👋, I'm Sourav, a Seeker, and Cloud Developer!
+### Hey there 👋, I'm Sourav, a Software Engineer!
 
 - 🔭 ***“A dream doesn't become reality through magic; it takes sweat, determination and hard work”.*** -Colin Powell
 - 🌱 I love learning Data Structure, Algorithm and System Design 😊
