@@ -38,8 +38,7 @@
 <img align="left" height='150px' width='375px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=souravskr&hide_progress=true&theme=vue"/>
 <img align="right" height='150px' width='375px' src="https://github-readme-stats.vercel.app/api?username=souravskr&show_icons=true&theme=vue"/> <br /><br /><br /><br /> <br /><br /><br />
 
-### LeetCode Stats
-[![Sourav's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=oxenpond&theme=Light)](https://github.com/oxenpond/leetcode-stats)
+[![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=oxenpond&theme=Light)](https://leetcode.com/oxenpond/)
 
 ### Thanks for checking out my profle! 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=souravskr.328822845)
