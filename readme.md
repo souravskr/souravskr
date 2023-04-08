@@ -42,7 +42,7 @@
 <p float="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=souravskr&hide_progress=true&theme=vue" height='150px' width="375" />
   <img src="https://github-readme-stats.vercel.app/api?username=souravskr&show_icons=true&theme=vue" height='150px' width="375" /> 
-  <img src="https://leetcode-stats.vercel.app/api?username=oxenpond&theme=Light" width="375" height='150px'/>
+  <img alt="LeetCode Stats" src="https://leetcode-stats.vercel.app/api?username=oxenpond&theme=Light" width="375" height='150px'/>
 </p>
 
 ### Thanks for checking out my profle! 
