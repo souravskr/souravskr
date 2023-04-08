@@ -35,10 +35,15 @@
 
 ### Github Stats:
 
-<img align="left" height='150px' width='375px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=souravskr&hide_progress=true&theme=vue"/>
-<img align="right" height='150px' width='375px' src="https://github-readme-stats.vercel.app/api?username=souravskr&show_icons=true&theme=vue"/> <br /><br /><br /><br /> <br /><br /><br />
+<!-- <img align="left" height='100px' width='300px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=souravskr&hide_progress=true&theme=vue"/>
+<img align="right" height='100px' width='300px' src="https://github-readme-stats.vercel.app/api?username=souravskr&show_icons=true&theme=vue"/> <br /><br /><br /><br /> <br /><br /><br />
+<img align="left" height='100px' width='300px' alt="LeetCode Stats" src="https://leetcode-stats.vercel.app/api?username=oxenpond&theme=Light"/> -->
 
-[![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=oxenpond&theme=Light)](https://leetcode.com/oxenpond/)
+<p float="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=souravskr&hide_progress=true&theme=vue" height='125px' width="300" />
+  <img src="https://github-readme-stats.vercel.app/api?username=souravskr&show_icons=true&theme=vue" height='150px' width="300" /> 
+  <img src="https://leetcode-stats.vercel.app/api?username=oxenpond&theme=Light" width="300" height='150px'/>
+</p>
 
 ### Thanks for checking out my profle! 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=souravskr.328822845)
