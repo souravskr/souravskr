@@ -22,7 +22,7 @@
 [<img align="left" alt="Go" width="35px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/go/go-original.svg" />](#)
 [<img align="left" alt="Python" width="35px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" />](#)
 [<img align="left" alt="java" width="35px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original.svg" />](#)
-[<img align="left" alt="Nodejs" width="35px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nodejs/nodejs-original.svg" />](#)
+[<img align="left" alt="JavaScript" width="35px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/javascript/javascript-original.svg" />](#)
 [<img align="left" alt="Terraform" width="35px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/terraform/terraform-original.svg" />](#)
 [<img align="left" alt="SQL" width="35px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/postgresql/postgresql-original.svg" />](#)
 [<img align="left" alt="MongoDB" width="35px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mongodb/mongodb-original.svg" />](#)
