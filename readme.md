@@ -26,7 +26,8 @@
 [<img align="left" alt="Terraform" width="35px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/terraform/terraform-original.svg" />](#)
 [<img align="left" alt="SQL" width="35px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/postgresql/postgresql-original.svg" />](#)
 [<img align="left" alt="MongoDB" width="35px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mongodb/mongodb-original.svg" />](#)
-[<img align="left" alt="GitHub" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />](#)
+[<img align="left" alt="GitHub" width="35px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/github/github-original.svg" />](#)
+[<img align="left" alt="Docker" width="35px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/docker/docker-plain-wordmark.svg" />](#)
 [<img align="left" alt="CircleCI" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/circleci/circleci-plain.svg" />](#)
 [<img align="left" alt="Bash" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" />](#)
 
