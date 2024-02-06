@@ -1,7 +1,7 @@
 ### Hey there 👋, I'm Sourav, a Software Engineer!
 
 - 🔭 ***“A dream doesn't become reality through magic; it takes sweat, determination and hard work”.*** -Colin Powell
-- 🌱 I love learning Data Structure, Algorithm and System Design 😊
+- 🌱 I love learning Data Structure, Algorithms and System Design 😊
 - 🥅 2023 Goal: Full-stack development - [Bud](https://github.com/livebud/bud) & [React](#).
 - ⚡ Fun fact: I have two pet budgie birds :bird: 
 
