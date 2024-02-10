@@ -45,4 +45,4 @@
                                                                                                                  
 
 ### Thanks for checking out my profile! 
-[![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fsouravskr&label=Visitor&countColor=%23263759&style=flat&labelStyle=lower)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fsouravskr)
+[![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fsouravskr&label=Visitor&countColor=%23263759&labelStyle=lower)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fsouravskr)
