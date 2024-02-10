@@ -45,4 +45,4 @@
                                                                                                                  
 
 ### Thanks for checking out my profile! 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=souravskr.328822845)
+[![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fsouravskr&label=Visitor&countColor=%23263759&style=flat&labelStyle=lower)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fsouravskr)
