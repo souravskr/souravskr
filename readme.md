@@ -3,7 +3,7 @@
 - 🔭 ***“A dream doesn't become reality through magic; it takes sweat, determination and hard work”.*** -Colin Powell
 - 🌱 I love learning Data Structure, Algorithms and System Design 😊
 - 🥅 2024 Goal: Do better than last year.
-- ⚡ Fun fact: I have two pet budgie birds :bird: 
+- ⚡ Fun fact: I have two pet budgie birds :bird: and DC lover 🧜🏼‍♂️
 
 ### Connect with me:
 
